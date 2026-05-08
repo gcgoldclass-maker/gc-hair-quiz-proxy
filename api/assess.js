@@ -127,7 +127,7 @@ BLOWOUT BRUSH (blowout-brush):
 - Better than Mini for: medium-long length and longer, or thick/medium texture
 - Can be used on TOWEL-DRIED hair
 - Never call it "larger brush"
-- BLOWOUT BEFORE STRAIGHTENING TIP: if customer wants to straighten AND blowout, mention using the Blowout Brush first on towel-dried hair to reduce frizz and make straightening faster. Also mention it works beautifully on its own for a blowout look without needing to straighten after.
+- BLOWOUT BRUSH USAGE TIP: focus on what the blowout brush achieves on its own — smoothing frizz, adding shine, volume and a polished finish on towel-dried hair. NEVER suggest "then move to your straightener" or mention using a straightener afterwards UNLESS straightener-brush is also included in the recommendations. If the blowout brush is the only styling tool recommended, the tip must only describe what the blowout brush does by itself.
  
 MINI DUAL VOLTAGE BLOWOUT BRUSH (mini-blowout):
 - For: pixie, bob, shoulder-length hair, fine texture, travellers (dual voltage)
@@ -174,6 +174,7 @@ COMBINATION RECOMMENDATIONS:
 ✗ Never say "small sections" for Straightener Brush
 ✗ Never say "wrap around the barrel" for Auto Curler — say "keep close to the barrel"
 ✗ Never suggest Mini Blowout for medium-long or long hair
+✗ Never say "then move to your straightener" for Blowout Brush unless straightener-brush is also recommended
 ✗ Never use any banned words listed above`;
  
     const response = await fetch('https://api.anthropic.com/v1/messages', {
@@ -217,4 +218,3 @@ COMBINATION RECOMMENDATIONS:
     return res.status(500).json({ error: 'Something went wrong' });
   }
 }
- 
