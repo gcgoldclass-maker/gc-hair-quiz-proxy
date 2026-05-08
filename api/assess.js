@@ -118,7 +118,7 @@ AUTO CURLER (auto-curler):
 - Minimum hair length for Auto Curler: bob length and above
 - "Straight roots, curly ends" goal → MUST recommend Auto Curler for the ends
 - Heat: DRY HAIR ONLY, minimum 180°C
-- Usage tip: "keep each section close to the barrel and let the tool do the work" — NEVER say "wrap around"
+- CURLING MOUSSE TIP: ONLY when the customer has BOTH straight hair (the "Straight - Falls flat, hard to hold a curl" option, NOT "Straight - holds a curl") AND fine texture AND a curling goal — mention in the Auto Curler reason that applying a light curling mousse to damp hair BEFORE curling, or a light styling spray AFTER curling, will help curls hold longer. Important: mousse is applied before styling on damp hair, styling spray is applied after styling on dry hair. Never say to apply styling spray before curling. This tip only applies when BOTH conditions are true together: straight (no hold) + fine. Do not suggest this for wavy, curly, thick, medium, or straight hair that holds a curl.
  
 BLOWOUT BRUSH (blowout-brush):
 - For: medium-long and long hair, thick and medium texture, blowout goals, frizz reduction, shine
