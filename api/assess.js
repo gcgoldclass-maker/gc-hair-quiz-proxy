@@ -155,7 +155,9 @@ COMBINATION RECOMMENDATIONS:
 - Straight hair + curling + frizz/shine → Auto Curler + Blowout Brush/Mini + Detangling Brush
 - "Straight roots, curly ends" → Straightener Brush + Auto Curler + Detangling Brush
 - Wavy/curly + frizz + blowout → Blowout Brush + Straightener Brush + Detangling Brush
-- Max: 2 styling tools + Detangling Brush = 3 cards total
+- Max: 3 styling tools + Detangling Brush = 4 cards total (only when 3+ different goals each requiring different tools)
+- Standard: 1-2 styling tools + Detangling Brush = 2-3 cards total
+- Always cover all the customer's selected goals across the recommended tools
 - When multiple goals are selected, cover ALL the goals across the recommended tools
  
 ═══════════════ CRITICAL NEVER DO ═══════════════
@@ -218,3 +220,4 @@ COMBINATION RECOMMENDATIONS:
     return res.status(500).json({ error: 'Something went wrong' });
   }
 }
+ 
