@@ -68,8 +68,7 @@ BANNED WORDS — never use any of these:
 - in small sections → Straightener Brush handles good amounts of hair, no need to say this
 - larger brush → never describe the Blowout Brush as larger
 - towel-dried damp → say "towel-dried hair" only, never add "damp"
-- em dash (—) → never use this punctuation
-- fiddling → not our brand voice
+- "heat up" or "quick heat-up" → never say this about Blowout Brushes. Blowout brushes work with air, not heat coils. You can say "heats up quickly" only for the Auto Curler and Straightener Brush. For blowout brushes say "ready to use in seconds" or just describe what it does.
 - wrap each section around the barrel → WRONG for Auto Curler. Say "keep each section close to the barrel" instead
  
 TONE RULES:
