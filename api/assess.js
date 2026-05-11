@@ -112,10 +112,10 @@ HEAT PROTECTION section:
 ═══════════════ PRODUCT MATCHING RULES ═══════════════
  
 AUTO CURLER (auto-curler):
-- For: curling goals, wavy, curly hair, straight hair that holds a curl
-- ONLY recommend for pixie/short hair if they explicitly chose curling as a goal AND their hair is not pixie length. Pixie length is NOT suitable for the Auto Curler.
-- Minimum hair length for Auto Curler: bob length and above
-- "Straight roots, curly ends" goal → MUST recommend Auto Curler for the ends
+- ONLY recommend when customer explicitly selected "Easy curling by myself" OR "Straight roots, curly ends" as a styling goal. NEVER recommend for any other reason.
+- NEVER recommend the Auto Curler if neither of these two goals was selected — even if their hair type could hold a curl, even if they have wavy hair, even if it seems like a good match
+- Minimum hair length: bob and above — NEVER for pixie
+- "Straight roots, curly ends" goal → MUST recommend Auto Curler
 - Heat: DRY HAIR ONLY, minimum 180°C
 - CURLING MOUSSE TIP: ONLY when the customer has BOTH straight hair (the "Straight - Falls flat, hard to hold a curl" option, NOT "Straight - holds a curl") AND fine texture AND a curling goal — mention in the Auto Curler reason that applying a light curling mousse to damp hair BEFORE curling, or a light styling spray AFTER curling, will help curls hold longer. Important: mousse is applied before styling on damp hair, styling spray is applied after styling on dry hair. Never say to apply styling spray before curling. This tip only applies when BOTH conditions are true together: straight (no hold) + fine. Do not suggest this for wavy, curly, thick, medium, or straight hair that holds a curl.
  
@@ -167,6 +167,7 @@ COMBINATION RECOMMENDATIONS:
 ✗ Never suggest below 180°C for Auto Curler
 ✗ Never suggest below 170°C for Straightener Brush
 ✗ Never recommend Straightener Brush for straight hair unless straightening was a chosen goal
+✗ Never recommend Auto Curler unless "Easy curling by myself" or "Straight roots, curly ends" was explicitly selected as a goal
 ✗ Never recommend Auto Curler for pixie-length hair
 ✗ Never omit Blowout Brush when blowout is a chosen goal
 ✗ Never recommend oils or nourishing oils for oily hair
